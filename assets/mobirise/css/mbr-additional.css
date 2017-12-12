@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+#menu-n .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-n .mbr-brand__name a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+#menu-n .mbr-navbar__items a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+#header1-k H1 {
+  text-align: center;
+}
+#header1-k P {
+  text-align: center;
+}
